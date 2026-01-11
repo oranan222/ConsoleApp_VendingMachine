@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ConsoleApp_VendingMachine\ConsoleApp_VendingMachine\bin\Debug\ConsoleApp_VendingMachine.exe.config
+C:\Users\acer\source\repos\ConsoleApp_VendingMachine\ConsoleApp_VendingMachine\bin\Debug\ConsoleApp_VendingMachine.exe
+C:\Users\acer\source\repos\ConsoleApp_VendingMachine\ConsoleApp_VendingMachine\bin\Debug\ConsoleApp_VendingMachine.pdb
+C:\Users\acer\source\repos\ConsoleApp_VendingMachine\ConsoleApp_VendingMachine\obj\Debug\ConsoleApp_VendingMachine.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp_VendingMachine\ConsoleApp_VendingMachine\obj\Debug\ConsoleApp_VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp_VendingMachine\ConsoleApp_VendingMachine\obj\Debug\ConsoleApp_VendingMachine.exe
+C:\Users\acer\source\repos\ConsoleApp_VendingMachine\ConsoleApp_VendingMachine\obj\Debug\ConsoleApp_VendingMachine.pdb
